@@ -1,0 +1,89 @@
+# Basic
+title: 念槐聚
+subtitle: 个人世界
+description: 念念不忘必有回响~
+# 头像里面的标题
+avatarTitle: haochuang
+# 头像里面的描述
+avatarDesc: 勿忘初心
+url: "www.uetest.com"
+
+# Comment
+comment:
+    # disqus: haochuang
+    duoshuo: haochuang 
+
+# Social
+social:
+    weibo: nianhuaiju 
+    github: haochuang
+    # twitter: 
+    mail: 
+
+# 百度统计 
+# 使用博客模板请去掉或者更换 id 
+#baidu:
+#    id: 89149bc63ddd0fbda82902ae936b8a22  
+
+# Google Analytics
+# 使用博客模板请去掉或者更换 id
+#ga:
+#    id: UA-98133145-1    
+#    host: auto  
+
+
+# 《----------------- 上面的信息修改成你自己的 ---------------------------》
+#
+#
+#  _post/ 下的文章更换成你自己的文章
+#  帮忙star一下，感谢~😆 地址： https://github.com/haochuang/haochuang.github.io
+#
+#
+# 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
+
+
+permalink: /:year/:month/:title/
+
+markdown: kramdown
+
+
+kramdown:
+  input:  GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: true
+  extensions:
+    - autolink
+    - footnotes
+    - smart
+  syntax_highlighter: rouge
+
+
+# Format
+highlighter: rouge
+
+textColor: #FF0000
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: clear
+
+# The blog button should not be removed.
+blog_button:
+    title: 博客主页
+
+# Navigation buttons in the front page.s
+nav:
+    - {title: 所有文章, description: archive, url: '/archive'}   
+    - {title: 标签, description: tags, url: '/tags'}      
+    - {title: 关于我, description: about, url: '/about'}      
+    
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 20
+paginate_path: "page/:num/"
+
+
+
