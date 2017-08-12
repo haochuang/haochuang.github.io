@@ -1,10 +1,10 @@
 -
 layout: post
 title:  使用github和jekyll搭建个人免费托管博客
-date:   2017-04-29 20:00:00 +0800
+date:   2016-08-12 20:00:00 +0800
 tag: 博客 网站
 ---
-把博客迁到了github重，部分要点：
+把博客迁到了github中，这里记录部分要点：
 
 ### 关于github的配置
 
@@ -84,8 +84,8 @@ jekyll的配置写在_config.yml中，具体配置有很多，在此放出我的
 subtitle: 个人世界  
 description: 欢迎来到我的世界~  
 avatarTitle: haochuang  
-avatarDesc: 折腾/作死  
-url: "www.uetest.com"  
+avatarDesc: 勿忘初心  
+# url: "www.uetest.com"  
 comment:  
 social:  
     weibo:  
@@ -93,7 +93,7 @@ social:
     twitter:   
     mail:  
  baidu:  
-    id: 89149bc63ddd0fbda82902ae936b8a22  
+    id: HAOCHUANGTEST99091988822  
     id: UA-98133145-1   
     host: auto   
 permalink: /:year/:month/:title/  
