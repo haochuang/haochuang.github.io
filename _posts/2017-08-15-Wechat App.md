@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Markdown语法相关
+title:  微信小程序
 date:   2016-08-15 14:12:00 +0800
-tag: Markdown
+tag: Wechat
 ---
 
 ### 小程序相关
