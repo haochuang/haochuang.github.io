@@ -181,3 +181,4 @@ ps：使用github提供的域名可以使用github pages自带的强制https加�
   [3]: http://jekyllcn.com/
   [4]: https://github.com/jekyll/jekyll/wiki/Sites
   [5]: https://github.com/haochuang/haochuang.github.io
+  [6]:http://jekyllcn.com/docs/templates/

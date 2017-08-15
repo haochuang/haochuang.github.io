@@ -2,7 +2,7 @@
 layout: post
 title:  关于CURL使用
 date:   2016-08-15 18:36:00 +0800
-tag: Markdown
+tag: CURL
 ---
 
 关于curl,可以参考下面这几篇文章：
