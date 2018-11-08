@@ -1,6 +1,9 @@
 ---
 layout: page
-title: 关于我 
+title: 关于我
+
+[联系我](<img src="http://i.imgur.com/wiNNpWg.png" alt="">)
+
 ---
 ### 简介
 
@@ -56,7 +59,7 @@ IT技术爱好者，喜欢研究一些IT技术。
 <li>我的微信</li>
 </ul>
 <center>
-	<a href="http://i.imgur.com/wiNNpWg.png" class="fancybox" rel="group"><img src="http://i.imgur.com/wiNNpWg.png" alt=""><img src="http://i.imgur.com/wiNNpWg.png" alt=""></a>	
+	<a href="http://i.imgur.com/wiNNpWg.png" class="fancybox" rel="group"><img src="http://i.imgur.com/wiNNpWg.png" alt=""></a>	
 </center>
 
 ### 感谢
