@@ -2,7 +2,7 @@
 layout: page
 title: 关于我
 
-[联系我](<img src="http://i.imgur.com/wiNNpWg.png" alt="">)
+[联系我](http://i.imgur.com/wiNNpWg.png)
 
 ---
 ### 简介
